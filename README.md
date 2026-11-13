@@ -6,7 +6,7 @@ STORYVERSE is a creative writing portfolio designed to showcase original storyte
 
 ## 🌐 Live Portfolio
 
-**[Visit STORYVERSE]([YOUR-VERCEL-LIVE-LINK](https://storyverse-4gpvyipgu-shaz2.vercel.app))**
+**[Visit STORYVERSE](https://storyverse-4gpvyipgu-shaz2.vercel.app)**
 
 ## 📖 About the Project
 
