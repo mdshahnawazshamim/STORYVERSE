@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#f0e4ce">
+
+  <title>Shahnawaz — AI Writer · Storyverse</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Playfair+Display:wght@500&family=DM+Sans:wght@400;500;600&family=IM+Fell+English:ital@0;1&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="hero-cover.css">
+  <link rel="stylesheet" href="collection.css">
+</head>
+
+<body>
+
+  <!-- NAVIGATION -->
+  <header class="navbar">
+    <a href="#" class="logo">STORY<span>VERSE</span></a>
+
+    <nav>
+      <a href="#home">Home</a>
+      <a href="#library">The Collection</a>
+    </nav>
+
+    <span class="nav-label">A JOURNAL OF STORIES</span>
+  </header>
+
+
+  <!-- HERO -->
+  <main>
+
+    <section class="cover" id="home">
+
+      <svg class="cover-title" viewBox="0 0 1000 360" preserveAspectRatio="none" role="img" aria-label="Shahnawaz">
+        <text x="0" y="350" font-size="480" textLength="1000" lengthAdjust="spacingAndGlyphs">SHAHNAWAZ</text>
+      </svg>
+
+      <img class="cover-person" src="shahnawaz.webp" alt="Shahnawaz, AI writer and storyteller">
+
+      <p class="cover-note left">I write the spark.<br>AI drafts.<br>I shape the voice.</p>
+      <p class="cover-note right">AI is my co-writer,<br>never the author.</p>
+
+      <div class="cover-tag">AI WRITER · STORYTELLER<br>APPLYING TO KUKU FM · 2026</div>
+      <div class="cover-side">SPARK · DRAFT · VOICE</div>
+
+      <a href="#library" class="cover-cta">READ THE STORIES ↓</a>
+
+    </section>
+
+
+    <!-- FOUR STORYBOOKS -->
+    <section class="library" id="library">
+
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">THE STORY COLLECTION</p>
+          <h2>Choose your <em>story.</em></h2>
+        </div>
+
+        <p class="collection-count">
+          FOUR VOLUMES<br>
+          FOUR DIFFERENT WORLDS
+        </p>
+      </div>
+
+
+      <div class="bookshelf">
+
+        <div class="shelf-top">
+          <span>THE STORYVERSE COLLECTION</span>
+          <span>✦ ✦ ✦</span>
+        </div>
+
+        <div class="book-grid">
+          <button class="book-card" data-book="0">
+            <div class="book3d" style="--d:0s">
+              <div class="book-body tone-ink">
+                <div class="bk-face">
+                  <span class="bk-vol">VOL. I</span>
+                  <span class="bk-title">THE LOVE<br>THAT FOLLOWED<br>DEATH</span>
+                  <span class="bk-rule"></span>
+                  <span class="bk-sub">AN ORIGINAL TALE</span>
+                  <span class="bk-mark">✦</span>
+                </div>
+              </div>
+            </div>
+            <span class="book-name">THE LOVE THAT FOLLOWED DEATH</span>
+            <span class="book-hint">OPEN THE BOOK ↗</span>
+          </button>
+
+          <button class="book-card" data-book="1">
+            <div class="book3d" style="--d:0.8s">
+              <div class="book-body tone-wine">
+                <div class="bk-face">
+                  <span class="bk-vol">VOL. II</span>
+                  <span class="bk-title">The<br>Lost<br>World</span>
+                  <span class="bk-rule"></span>
+                  <span class="bk-sub">AN ORIGINAL TALE</span>
+                  <span class="bk-mark">✦</span>
+                </div>
+              </div>
+            </div>
+            <span class="book-name">The Lost World</span>
+            <span class="book-hint">OPEN THE BOOK ↗</span>
+          </button>
+
+          <button class="book-card" data-book="2">
+            <div class="book3d" style="--d:1.6s">
+              <div class="book-body tone-paper">
+                <div class="bk-face">
+                  <span class="bk-vol">VOL. III</span>
+                  <span class="bk-title">Beyond<br>the<br>Horizon</span>
+                  <span class="bk-rule"></span>
+                  <span class="bk-sub">AN ORIGINAL TALE</span>
+                  <span class="bk-mark">✦</span>
+                </div>
+              </div>
+            </div>
+            <span class="book-name">Beyond the Horizon</span>
+            <span class="book-hint">OPEN THE BOOK ↗</span>
+          </button>
+
+          <button class="book-card" data-book="3">
+            <div class="book3d" style="--d:2.4s">
+              <div class="book-body tone-bronze">
+                <div class="bk-face">
+                  <span class="bk-vol">VOL. IV</span>
+                  <span class="bk-title">The<br>Final<br>Chapter</span>
+                  <span class="bk-rule"></span>
+                  <span class="bk-sub">AN ORIGINAL TALE</span>
+                  <span class="bk-mark">✦</span>
+                </div>
+              </div>
+            </div>
+            <span class="book-name">The Final Chapter</span>
+            <span class="book-hint">OPEN THE BOOK ↗</span>
+          </button>
+
+        </div>
+
+        <div class="shelf-base"></div>
+
+      </div>
+
+      <p class="library-quote">
+        “Between the pages of a book is a place where anything is possible.”
+      </p>
+
+    </section>
+
+  </main>
+
+
+  <!-- BOOK READER OVERLAY -->
+  <div class="reader-overlay" id="readerOverlay">
+
+    <div class="reader-container">
+
+      <div class="reader-topbar">
+        <span class="reader-brand">STORYVERSE <span>/</span> READING ROOM</span>
+
+        <div class="reader-actions">
+          <button id="backReader" class="close-button back-nav">← ALL STORIES</button>
+          <button id="closeReader" class="close-button">CLOSE ✕</button>
+        </div>
+      </div>
+
+
+      <!-- OPENING BOOK -->
+      <div class="open-book">
+
+        <div class="book-spread">
+
+          <!-- LEFT PAGE -->
+          <div class="book-page left-page">
+
+            <div class="page-decoration">❧</div>
+
+            <p class="page-volume" id="pageVolume">VOLUME I</p>
+
+            <h2 id="pageBookTitle">The First Story</h2>
+
+            <div class="page-divider">✦</div>
+
+            <p class="page-description">
+              Every story begins with an idea.
+              Turn the page to discover its world.
+            </p>
+
+            <div class="page-footer">STORYVERSE</div>
+
+          </div>
+
+
+          <!-- RIGHT PAGE -->
+          <div class="book-page right-page">
+
+            <div class="page-content" id="pageContent">
+
+              <p class="page-volume">SELECT A PART</p>
+
+              <h2>Inside this book</h2>
+
+              <div class="part-options">
+
+                <button class="part-button" data-part="original">
+                  <span class="part-number">PART I</span>
+                  <span class="part-title">Original Story</span>
+                  <span class="part-description">
+                    The story in its original form.
+                  </span>
+                  <span class="part-arrow">→</span>
+                </button>
+
+                <button class="part-button" data-part="series">
+                  <span class="part-number">PART II</span>
+                  <span class="part-title">AI-Expanded Series</span>
+                  <span class="part-description">
+                    Explore seven episodes of this story.
+                  </span>
+                  <span class="part-arrow">→</span>
+                </button>
+
+              </div>
+
+            </div>
+
+            <div class="page-footer">STORYVERSE</div>
+
+          </div>
+
+          <!-- ANIMATED COVER -->
+          <div class="book-flipping-cover">
+            <div class="flip-cover-design">
+              <span class="flip-volume">STORYVERSE COLLECTION</span>
+              <span class="flip-ornament">❧</span>
+              <span class="flip-title" id="flipTitle">THE FIRST STORY</span>
+              <span class="flip-bottom">✦</span>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+
+      <p class="reader-instruction">
+        A STORY IS WAITING BETWEEN THESE PAGES.
+      </p>
+
+    </div>
+
+  </div>
+
+
+  <footer>
+    <a href="#" class="logo">STORY<span>VERSE</span></a>
+    <p>Four stories. Endless possibilities.</p>
+    <small>© 2026 STORYVERSE</small>
+  </footer>
+
+   <script src="lock.js"></script>
+  <script src="script.js"></script>
+
+</body>
+</html>
