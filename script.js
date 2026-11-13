@@ -213,19 +213,171 @@ originalStory: {
   },
 
 
-  {
-    title: "The Lost World",
-    volume: "VOLUME II",
-    originalStory: {
-      subtitle: "An original tale",
+ 
+{
+  title: "The Light Within",
+  volume: "VOLUME II",
+
+  originalStory: {
+    subtitle: "Sometimes, hope is closer than we think",
+
+    paragraphs: [
+      "The night was unusually quiet. Dark clouds covered the sky, the streets were empty, and a cold wind whispered through the trees as if it had something important to say. The entire world seemed to be holding its breath.",
+
+      "A girl named Starwulf sat beside her window, lost in her thoughts. She had always wondered why life sometimes felt so difficult. Why did beautiful things fade? Why did people leave? Why did happiness feel like a temporary visitor rather than a permanent guest?",
+
+      "The electricity had gone out. Searching through her belongings, she found a small candle and lit it. It was a gift from her brother. As she watched its flame, she felt a familiar warmth, reminding her of the love behind that simple gift.",
+
+      "Its flame was tiny, almost invisible against the enormous darkness surrounding it, yet it continued to burn. Starwulf stared at it for a long time.",
+
+      "\"How can something so small fight something so big?\" she whispered.",
+
+      "The candle flickered as the wind entered through the slightly open window, but it did not go out. Something about that little flame touched her heart.",
+
+      "\"Perhaps life is like that candle. Perhaps darkness is not always a sign that light has disappeared. Sometimes, darkness simply gives light a chance to reveal its existence.\"",
+
+      "She remembered all the moments when she had felt lost, all the nights that seemed endless, and all the mornings when she had forced herself to smile despite carrying invisible sadness. But she was still here. Still breathing, still dreaming, still hoping.",
+
+      "A small smile appeared on her face. She opened her diary and wrote: \"There is light in every darkness. Sometimes we become so frightened by the darkness around us that we forget the light within us. My little light continues to shine, just like the sun beyond the clouds. It gives me hope that everything can be fine, that life can still be beautiful, and that even the darkest sky will eventually welcome morning.\"",
+
+      "She closed her diary. At that very moment, the clouds began to move. Birds started whispering their morning songs, and a golden ray of sunlight entered her room.",
+
+      "Starwulf looked towards the window. The darkness of night slowly disappeared beneath the sunlight. For the first time in many days, she did not wish for the darkness to disappear immediately.",
+
+      "She had learned something important: light does not need darkness to disappear to prove that it exists.",
+
+      "And perhaps that was the most beautiful thing about hope. The sun had always been there. She had only forgotten to look beyond the clouds."
+    ]
+  },
+
+  episodes: [
+    {
+      title: "The Night That Wouldn't End",
       paragraphs: [
-        "This is the original story placeholder for Book 2.",
-        "Add your second story here. Introduce its setting, characters and the idea that makes this world unique.",
-        "Continue your story here. This section should contain your original writing, not the AI-expanded episodes."
+        "The clock had crossed midnight, but Starwulf was nowhere close to sleeping. She sat beside her bedroom window, watching the dark clouds slowly cover the sky. The streets below were empty, and even the familiar sounds of the city seemed to have disappeared.",
+
+        "There were nights when silence felt peaceful. This was not one of them. Tonight, silence felt heavy, almost as if it were reminding her of everything she had been trying to forget.",
+
+        "She wondered why people changed, why beautiful moments ended, and why happiness never seemed to stay for long. Questions filled her mind, but none of them had answers.",
+
+        "Outside, the wind moved through the trees. Starwulf rested her head against the window and whispered, \"Does everyone feel this lost sometimes, or is it just me?\"",
+
+        "The room suddenly went dark. The electricity had disappeared. And in that unexpected darkness, Starwulf noticed something she had almost forgotten."
       ]
     },
-    episodes: ["The Forgotten Place", "A Journey Begins", "The Mysterious Stranger", "The Secret Passage", "The Revelation", "The Last Decision", "Beyond the Lost World"]
-  },
+
+    {
+      title: "A Little Flame",
+      paragraphs: [
+        "Starwulf searched her desk for a torch, but instead, her fingers touched a small candle. She remembered it immediately. Her brother had given it to her as a simple gift, telling her that everyone needed a little light during difficult times.",
+
+        "She smiled faintly at the memory and found a matchbox. A few seconds later, a tiny flame appeared in the middle of her dark room.",
+
+        "The candle was small. Its light barely reached the corners of the room, yet it changed everything around it. The darkness was still there, but suddenly, it did not seem quite as frightening.",
+
+        "She moved closer and watched the flame dance. The wind entered through the slightly open window, making it tremble. For a moment, she thought it would disappear. But it continued burning.",
+
+        "\"How can something so small fight something so big?\" she whispered.",
+
+        "For the first time that night, her thoughts were not entirely about her sadness. They were about that little flame."
+      ]
+    },
+
+    {
+      title: "The Gift of Yesterday",
+      paragraphs: [
+        "As Starwulf watched the candle, memories of her brother returned. She remembered the day he had given it to her. It had not been a special occasion. There had been no celebration or expensive gift wrapping. It was simply a small gesture of affection.",
+
+        "He had told her that a candle could not brighten the entire world, but it could make one small place warmer. At the time, she had laughed at his words without understanding their meaning.",
+
+        "Now, sitting alone in the darkness, those words felt different. She realised how many small moments of love she had overlooked while searching for something extraordinary.",
+
+        "A message, a smile, a familiar voice, a simple gift. Perhaps these were the things that quietly kept people going.",
+
+        "She looked at the candle again. Its flame reminded her that love did not always need to be loud to be real.",
+
+        "And for a moment, the room felt less empty."
+      ]
+    },
+
+    {
+      title: "The Weight of Unspoken Thoughts",
+      paragraphs: [
+        "The candle continued burning as Starwulf sank into her chair. Her mind travelled through memories she rarely shared with anyone.",
+
+        "She remembered mornings when she had smiled just to avoid questions. She remembered conversations where she had said she was fine, even when she had no idea how to explain what she was feeling.",
+
+        "Sometimes, she felt lonely even when surrounded by people. Sometimes, she wanted someone to understand her without having to explain every little thing.",
+
+        "She wondered whether everyone carried invisible sadness or whether the world had simply become too busy to notice it.",
+
+        "But then she looked at the candle. Its flame was not powerful, yet it never stopped trying to shine.",
+
+        "\"Perhaps I do not need to have everything figured out,\" she thought. \"Perhaps being here, trying again, is enough for tonight.\""
+      ]
+    },
+
+    {
+      title: "The Words in Her Diary",
+      paragraphs: [
+        "Starwulf reached for her diary, an old companion that had witnessed thoughts she had never spoken aloud. She opened a fresh page and held her pen above it.",
+
+        "For a few moments, she could not find the right words. Then she began writing about the candle, the darkness, and the strange comfort she had discovered in its little flame.",
+
+        "She wrote about how people often searched for happiness in distant places, waiting for someone or something to make their lives complete. Yet, perhaps they forgot to notice the strength they already carried within themselves.",
+
+        "Her words slowly filled the page. She wrote that darkness did not always mean the absence of light, and that difficult moments did not mean life had lost its beauty.",
+
+        "\"There is light in every darkness. Sometimes we become so frightened by the darkness around us that we forget the light within us.\"",
+
+        "She read the sentence again. For once, the words did not feel like advice she was giving someone else. They felt like something she desperately needed to believe herself.",
+
+        "She closed the diary with a quiet smile."
+      ]
+    },
+
+    {
+      title: "Beyond the Clouds",
+      paragraphs: [
+        "The night was beginning to change. The darkness outside no longer looked as endless as it had a few hours earlier. Somewhere beyond the clouds, morning was approaching.",
+
+        "Starwulf stood near the window. The candle was still burning, although its flame had become smaller. She watched the sky carefully as the clouds slowly moved away.",
+
+        "Then she heard it. The soft whispers of birds welcoming a new morning. Their voices seemed to announce that the world was beginning again.",
+
+        "A golden ray of sunlight entered her room and touched the pages of her diary. The same room that had seemed so dark only moments ago was now filled with warmth.",
+
+        "Starwulf looked towards the sky. She realised that the sun had never stopped shining. It had simply been hidden behind the clouds.",
+
+        "And perhaps she had been doing the same thing with her own happiness, looking at everything that covered it while forgetting that it could still exist."
+      ]
+    },
+
+    {
+      title: "The Light Within",
+      paragraphs: [
+        "Morning had finally arrived. Starwulf opened her window, allowing the fresh air to enter her room. The streets were slowly becoming alive again, and the golden sunlight spread across the walls.",
+
+        "She looked at the little candle on her desk. Its flame had finally gone out, but the warmth it had given her remained in her heart.",
+
+        "She picked up her diary and read the words she had written during the night. They reminded her that life did not need to become perfect before she could find a reason to smile.",
+
+        "There would still be difficult days. People might leave, beautiful moments might end, and questions might remain unanswered. But she no longer wanted to spend every moment waiting for the darkness to disappear.",
+
+        "She had understood that hope was not about having a life without darkness. It was about believing that light could still exist in the middle of it.",
+
+        "Starwulf smiled and looked towards the sun. Perhaps the light she had spent so long searching for was never outside her reach.",
+
+        "It had been within her all along.",
+
+        "Somewhere in the quietness of that morning, she made a promise to herself: no matter how dark tomorrow became, she would never stop looking for the light within.",
+
+        "THE END."
+      ]
+    }
+  ]
+},
+
 
   {
     title: "Beyond the Horizon",
